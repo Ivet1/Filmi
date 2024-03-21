@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\1zad\1zad\bin\Debug\net6.0\1zad.exe
+C:\Users\GRIGS\source\repos\1zad\1zad\bin\Debug\net6.0\1zad.deps.json
+C:\Users\GRIGS\source\repos\1zad\1zad\bin\Debug\net6.0\1zad.runtimeconfig.json
+C:\Users\GRIGS\source\repos\1zad\1zad\bin\Debug\net6.0\1zad.dll
+C:\Users\GRIGS\source\repos\1zad\1zad\bin\Debug\net6.0\1zad.pdb
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.dll
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\refint\1zad.dll
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.pdb
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\1zad.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\1zad\1zad\obj\Debug\net6.0\ref\1zad.dll

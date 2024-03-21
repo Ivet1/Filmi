@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\icarus\icarus\bin\Debug\net6.0\icarus.exe
+C:\Users\GRIGS\source\repos\icarus\icarus\bin\Debug\net6.0\icarus.deps.json
+C:\Users\GRIGS\source\repos\icarus\icarus\bin\Debug\net6.0\icarus.runtimeconfig.json
+C:\Users\GRIGS\source\repos\icarus\icarus\bin\Debug\net6.0\icarus.dll
+C:\Users\GRIGS\source\repos\icarus\icarus\bin\Debug\net6.0\icarus.pdb
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.dll
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\refint\icarus.dll
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.pdb
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\icarus.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\icarus\icarus\obj\Debug\net6.0\ref\icarus.dll

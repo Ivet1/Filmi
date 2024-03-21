@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\bin\Debug\net6.0\AnonymousDownsite.exe
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\bin\Debug\net6.0\AnonymousDownsite.deps.json
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\bin\Debug\net6.0\AnonymousDownsite.runtimeconfig.json
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\bin\Debug\net6.0\AnonymousDownsite.dll
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\bin\Debug\net6.0\AnonymousDownsite.pdb
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.dll
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\refint\AnonymousDownsite.dll
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.pdb
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\AnonymousDownsite.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\AnonymousDownsite\AnonymousDownsite\obj\Debug\net6.0\ref\AnonymousDownsite.dll
