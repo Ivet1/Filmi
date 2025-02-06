@@ -1,0 +1,54 @@
+﻿<Window x:Class="GeometricShapesApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Geometric Shapes Drawer" Height="400" Width="665">
+    <StackPanel x:Name="GeometricShapesApp" Margin="-32,-6,-114,-128" Cursor="IBeam">
+        <StackPanel.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FF3D56BB" Offset="1"/>
+            </LinearGradientBrush>
+        </StackPanel.Background>
+        <ComboBox x:Name="ShapeSelector" Width="277" Height="25" SelectionChanged="ShapeSelector_SelectionChanged" FontFamily="Georgia" FontSize="16">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FF286C75" Offset="{Binding ElementName=window, Mode=OneWay}"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBoxItem Content="Rectangle"/>
+            <ComboBoxItem Content="Circle"/>
+            <ComboBoxItem Content="Triangle"/>
+        </ComboBox>
+
+        <TextBox x:Name="Parameter1" Width="277" Height="25" Text="Width / Radius"/>
+        <TextBox x:Name="Parameter2" Width="277" Height="25" Text="Height (for Rectangle)"/>
+        <ComboBox x:Name="ColorSelector" Width="277" Height="25" Background="{x:Null}">
+            <ComboBoxItem Content="Red"/>
+            <ComboBoxItem Content="Green"/>
+            <ComboBoxItem Content="Blue"/>
+            <ComboBoxItem Content="Yellow"/>
+            <ComboBoxItem Content="Black"/>
+            <ComboBoxItem Content="White"/>
+        </ComboBox>
+
+        <Button Content="Draw Shape" Click="DrawButton_Click" Width="150" Height="30"/>
+        <Button Content="Undo" Click="UndoButton_Click" Width="150" Height="30"/>
+        <Button x:Name="ClearButton" Content="Clear" Width="150" Height="30" Click="ClearButton_Click" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Content="List Shapes" Click="ListShapes_Click" Width="150" Height="30" />
+        <Button Content="Sort Shapes by Area" Click="DisplayShapesSortedByArea_Click" Width="150" Height="30" />
+        <Button Content="Count Shapes" Click="CountShapes_Click" Width="150" Height="30" />
+
+        <Canvas x:Name="ShapeContainer" Width="134" Height="138" Background="LightGray" 
+        />
+    </StackPanel>
+</Window>

@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\Hanoi1\bin\Debug\Hanoi1.exe.config
+C:\Users\GRIGS\source\repos\Hanoi1\bin\Debug\Hanoi1.exe
+C:\Users\GRIGS\source\repos\Hanoi1\bin\Debug\Hanoi1.pdb
+C:\Users\GRIGS\source\repos\Hanoi1\obj\Debug\Hanoi1.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Hanoi1\obj\Debug\Hanoi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\Hanoi1\obj\Debug\Hanoi1.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Hanoi1\obj\Debug\Hanoi1.exe
+C:\Users\GRIGS\source\repos\Hanoi1\obj\Debug\Hanoi1.pdb

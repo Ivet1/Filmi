@@ -1,0 +1,11 @@
+C:\Users\GRIGS\source\repos\permutation\bin\Debug\permutation.exe.config
+C:\Users\GRIGS\source\repos\permutation\bin\Debug\permutation.exe
+C:\Users\GRIGS\source\repos\permutation\bin\Debug\permutation.pdb
+C:\Users\GRIGS\source\repos\permutation\bin\Debug\Combinatorics.dll
+C:\Users\GRIGS\source\repos\permutation\bin\Debug\Combinatorics.xml
+C:\Users\GRIGS\source\repos\permutation\obj\Debug\permutation.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\permutation\obj\Debug\permutation.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\permutation\obj\Debug\permutation.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\permutation\obj\Debug\permutation.csproj.CopyComplete
+C:\Users\GRIGS\source\repos\permutation\obj\Debug\permutation.exe
+C:\Users\GRIGS\source\repos\permutation\obj\Debug\permutation.pdb

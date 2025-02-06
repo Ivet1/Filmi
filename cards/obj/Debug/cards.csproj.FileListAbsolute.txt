@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\cards\obj\Debug\cards.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\cards\obj\Debug\cards.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\cards\obj\Debug\cards.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\cards\bin\Debug\cards.exe.config
+C:\Users\GRIGS\source\repos\cards\bin\Debug\cards.exe
+C:\Users\GRIGS\source\repos\cards\bin\Debug\cards.pdb
+C:\Users\GRIGS\source\repos\cards\obj\Debug\cards.exe
+C:\Users\GRIGS\source\repos\cards\obj\Debug\cards.pdb

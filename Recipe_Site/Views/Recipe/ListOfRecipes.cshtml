@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Recipe_Site.Models.Recipe>
+
+<h2>All Recipes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Created By</th>
+            <th>Created At</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var recipe in Model)
+        {
+            <tr>
+                <td>@recipe.Title</td>
+                <td>@recipe.User.UserName</td>
+                <td>@recipe.CreatedAt</td>
+                <td>
+                    <a href="@Url.Action("Details", "Recipe", new { id = recipe.Id })">View</a> |
+                    <a href="@Url.Action("Edit", "Recipe", new { id = recipe.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Recipe", new { id = recipe.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

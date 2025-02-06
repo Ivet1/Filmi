@@ -1,0 +1,11 @@
+C:\Users\GRIGS\source\repos\mikado\bin\Debug\mikado.exe.config
+C:\Users\GRIGS\source\repos\mikado\bin\Debug\mikado.exe
+C:\Users\GRIGS\source\repos\mikado\bin\Debug\mikado.pdb
+C:\Users\GRIGS\source\repos\mikado\bin\Debug\Combinatorics.dll
+C:\Users\GRIGS\source\repos\mikado\bin\Debug\Combinatorics.xml
+C:\Users\GRIGS\source\repos\mikado\obj\Debug\mikado.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\mikado\obj\Debug\mikado.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\mikado\obj\Debug\mikado.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\mikado\obj\Debug\mikado.csproj.CopyComplete
+C:\Users\GRIGS\source\repos\mikado\obj\Debug\mikado.exe
+C:\Users\GRIGS\source\repos\mikado\obj\Debug\mikado.pdb

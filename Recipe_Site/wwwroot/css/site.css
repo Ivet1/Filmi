@@ -1,0 +1,94 @@
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Playfair+Display:wght@400;600&display=swap');
+
+/* General body background */
+body {
+    font-family: 'Roboto', sans-serif; /* Stylish sans-serif font */
+    background-color: #f4f7f6; /* Light greyish pastel for overall comfort */
+    color: #333; /* Dark text for readability */
+}
+
+/* Header styling */
+header {
+    background-color: #e0f7fa; /* Light cyan for a soothing header */
+    padding: 20px;
+    border-bottom: 1px solid #b2ebf2; /* Slightly darker cyan border */
+    font-family: 'Playfair Display', serif; /* Elegant serif font for the header */
+}
+
+/* Button styling for 'Add New Recipe' */
+.btn-primary {
+    background-color: #ff8a80; /* Light peach for buttons */
+    color: white;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif; /* Use the main sans-serif font for buttons */
+    transition: background-color 0.3s ease;
+}
+
+    .btn-primary:hover {
+        background-color: #ff5c5c; /* Slightly darker peach on hover */
+    }
+
+/* List Group (Recipe List) */
+.list-group {
+    background-color: #ffffff; /* Clean white background for the list */
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+}
+
+.list-group-item {
+    background-color: #f9f9f9; /* Light grey for individual list items */
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 20px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+    .list-group-item:hover {
+        background-color: #e3f2fd; /* Light blue on hover */
+        transform: scale(1.02); /* Slight zoom effect on hover */
+    }
+
+    .list-group-item h5 {
+        color: #2c3e50; /* Darker text for titles */
+        font-family: 'Playfair Display', serif; /* Elegant font for recipe titles */
+        font-size: 1.3rem; /* Larger font size for titles */
+        font-weight: 600; /* Semi-bold for a strong impact */
+    }
+
+    .list-group-item p {
+        color: #7f8c8d; /* Muted grey text for ingredients */
+        font-family: 'Roboto', sans-serif; /* Sans-serif font for ingredients */
+        font-size: 1rem;
+    }
+
+/* Empty state message when no recipes are found */
+.mt-4.text-muted {
+    color: #7f8c8d; /* Light grey text for the "no recipes found" message */
+    font-family: 'Roboto', sans-serif; /* Consistent sans-serif font */
+    font-size: 1.1rem;
+}
+
+/* For the footer */
+footer {
+    background-color: #f1f8f5; /* Soft minty green to match the header */
+    padding: 20px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #555;
+    font-family: 'Roboto', sans-serif; /* Use the sans-serif font for footer */
+}
+
+/* Title for the Recipes Page */
+h1 {
+    color: #34495e; /* Deep greyish blue for the main title */
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif; /* Elegant serif font for page title */
+    font-weight: 600; /* Semi-bold for emphasis */
+}

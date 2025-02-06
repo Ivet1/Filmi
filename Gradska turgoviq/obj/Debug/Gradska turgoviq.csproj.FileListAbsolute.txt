@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\Gradska turgoviq\bin\Debug\Gradska turgoviq.exe.config
+C:\Users\GRIGS\source\repos\Gradska turgoviq\bin\Debug\Gradska turgoviq.exe
+C:\Users\GRIGS\source\repos\Gradska turgoviq\bin\Debug\Gradska turgoviq.pdb
+C:\Users\GRIGS\source\repos\Gradska turgoviq\obj\Debug\Gradska turgoviq.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Gradska turgoviq\obj\Debug\Gradska turgoviq.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\Gradska turgoviq\obj\Debug\Gradska turgoviq.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Gradska turgoviq\obj\Debug\Gradska turgoviq.exe
+C:\Users\GRIGS\source\repos\Gradska turgoviq\obj\Debug\Gradska turgoviq.pdb

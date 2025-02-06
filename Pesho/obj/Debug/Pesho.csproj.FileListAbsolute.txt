@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\Pesho\obj\Debug\Pesho.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Pesho\obj\Debug\Pesho.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\Pesho\obj\Debug\Pesho.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Pesho\bin\Debug\Pesho.exe.config
+C:\Users\GRIGS\source\repos\Pesho\bin\Debug\Pesho.exe
+C:\Users\GRIGS\source\repos\Pesho\bin\Debug\Pesho.pdb
+C:\Users\GRIGS\source\repos\Pesho\obj\Debug\Pesho.exe
+C:\Users\GRIGS\source\repos\Pesho\obj\Debug\Pesho.pdb

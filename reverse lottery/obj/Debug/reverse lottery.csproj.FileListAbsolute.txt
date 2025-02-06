@@ -1,0 +1,11 @@
+C:\Users\GRIGS\source\repos\reverse lottery\bin\Debug\reverse lottery.exe.config
+C:\Users\GRIGS\source\repos\reverse lottery\bin\Debug\reverse lottery.exe
+C:\Users\GRIGS\source\repos\reverse lottery\bin\Debug\reverse lottery.pdb
+C:\Users\GRIGS\source\repos\reverse lottery\bin\Debug\Combinatorics.dll
+C:\Users\GRIGS\source\repos\reverse lottery\bin\Debug\Combinatorics.xml
+C:\Users\GRIGS\source\repos\reverse lottery\obj\Debug\reverse lottery.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\reverse lottery\obj\Debug\reverse lottery.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\reverse lottery\obj\Debug\reverse lottery.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\reverse lottery\obj\Debug\reverse lottery.csproj.CopyComplete
+C:\Users\GRIGS\source\repos\reverse lottery\obj\Debug\reverse lottery.exe
+C:\Users\GRIGS\source\repos\reverse lottery\obj\Debug\reverse lottery.pdb

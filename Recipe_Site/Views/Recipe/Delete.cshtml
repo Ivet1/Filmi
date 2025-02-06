@@ -1,0 +1,13 @@
+﻿@model Recipe_Site.Models.Recipe
+
+@{
+    ViewData["Title"] = "Delete Recipe";
+}
+
+<h2>Are you sure you want to delete the recipe: @Model.Title?</h2>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+</form>
+<a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Cancel</a>

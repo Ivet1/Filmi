@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\Tree\bin\Debug\Tree.exe.config
+C:\Users\GRIGS\source\repos\Tree\bin\Debug\Tree.exe
+C:\Users\GRIGS\source\repos\Tree\bin\Debug\Tree.pdb
+C:\Users\GRIGS\source\repos\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Tree\obj\Debug\Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Tree\obj\Debug\Tree.exe
+C:\Users\GRIGS\source\repos\Tree\obj\Debug\Tree.pdb

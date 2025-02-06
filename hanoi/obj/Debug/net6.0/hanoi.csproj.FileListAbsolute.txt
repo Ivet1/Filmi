@@ -1,0 +1,7 @@
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.Properties.Resources.resources
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.csproj.GenerateResource.cache
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\hanoi\obj\Debug\net6.0\hanoi.csproj.CoreCompileInputs.cache

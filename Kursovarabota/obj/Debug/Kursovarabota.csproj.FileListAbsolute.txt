@@ -1,0 +1,15 @@
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\MainWindow.baml
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\MainWindow.g.cs
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\App.g.cs
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota_MarkupCompile.cache
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.g.resources
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.Properties.Resources.resources
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.csproj.GenerateResource.cache
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Kursovarabota\bin\Debug\Kursovarabota.exe.config
+C:\Users\GRIGS\source\repos\Kursovarabota\bin\Debug\Kursovarabota.exe
+C:\Users\GRIGS\source\repos\Kursovarabota\bin\Debug\Kursovarabota.pdb
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.exe
+C:\Users\GRIGS\source\repos\Kursovarabota\obj\Debug\Kursovarabota.pdb

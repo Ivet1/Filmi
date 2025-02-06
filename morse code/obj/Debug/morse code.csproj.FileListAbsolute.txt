@@ -1,0 +1,11 @@
+C:\Users\GRIGS\source\repos\morse code\bin\Debug\morse code.exe.config
+C:\Users\GRIGS\source\repos\morse code\bin\Debug\morse code.exe
+C:\Users\GRIGS\source\repos\morse code\bin\Debug\morse code.pdb
+C:\Users\GRIGS\source\repos\morse code\bin\Debug\Combinatorics.dll
+C:\Users\GRIGS\source\repos\morse code\bin\Debug\Combinatorics.xml
+C:\Users\GRIGS\source\repos\morse code\obj\Debug\morse code.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\morse code\obj\Debug\morse code.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\morse code\obj\Debug\morse code.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\morse code\obj\Debug\morse code.csproj.CopyComplete
+C:\Users\GRIGS\source\repos\morse code\obj\Debug\morse code.exe
+C:\Users\GRIGS\source\repos\morse code\obj\Debug\morse code.pdb

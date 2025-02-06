@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Recipe_Site.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Recipe_Site.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\0ca3dc27-4f7c-4048-a8f2-75783447c74f.jpg",
+      "PackagePath": "staticwebassets\\images\\0ca3dc27-4f7c-4048-a8f2-75783447c74f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\39af667e-8659-4ebd-9fb9-2d6740c4978b.png",
+      "PackagePath": "staticwebassets\\images\\39af667e-8659-4ebd-9fb9-2d6740c4978b.png"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\3ca52231-1ed7-48a9-862f-5034222857dc.jpg",
+      "PackagePath": "staticwebassets\\images\\3ca52231-1ed7-48a9-862f-5034222857dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\408b081e-db70-4705-a467-1671370d4dd5.jpg",
+      "PackagePath": "staticwebassets\\images\\408b081e-db70-4705-a467-1671370d4dd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\5ed66185-b385-4513-b6f3-bec9e739e513.jpg",
+      "PackagePath": "staticwebassets\\images\\5ed66185-b385-4513-b6f3-bec9e739e513.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\8527ba71-ed10-49b3-9067-d68abd7a143f.png",
+      "PackagePath": "staticwebassets\\images\\8527ba71-ed10-49b3-9067-d68abd7a143f.png"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\96b472f2-2921-44ed-8743-bf951fb2868a.png",
+      "PackagePath": "staticwebassets\\images\\96b472f2-2921-44ed-8743-bf951fb2868a.png"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\CrispyFishyTacos.jpg",
+      "PackagePath": "staticwebassets\\images\\CrispyFishyTacos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\Lemon-Chicken-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Lemon-Chicken-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\Margarita.jpg",
+      "PackagePath": "staticwebassets\\images\\Margarita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\MushroomRisotto.jpg",
+      "PackagePath": "staticwebassets\\images\\MushroomRisotto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\OIP (1).jpg",
+      "PackagePath": "staticwebassets\\images\\OIP (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\OIP (2).jpg",
+      "PackagePath": "staticwebassets\\images\\OIP (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\R.jpg",
+      "PackagePath": "staticwebassets\\images\\R.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\beef-wellington-FT-RECIPE0321-c9a63fccde3b45889ad78fdad078153f.jpg",
+      "PackagePath": "staticwebassets\\images\\beef-wellington-FT-RECIPE0321-c9a63fccde3b45889ad78fdad078153f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\beef_tacos.jpg",
+      "PackagePath": "staticwebassets\\images\\beef_tacos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\c0accf1d-c22b-4cf4-888c-2bd1119fb0d3.png",
+      "PackagePath": "staticwebassets\\images\\c0accf1d-c22b-4cf4-888c-2bd1119fb0d3.png"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\caesar_salad.jpg",
+      "PackagePath": "staticwebassets\\images\\caesar_salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\cfe92633-b4be-4eb6-a5bd-8d279c5caf4b.png",
+      "PackagePath": "staticwebassets\\images\\cfe92633-b4be-4eb6-a5bd-8d279c5caf4b.png"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\chicken_alfredo.jpg",
+      "PackagePath": "staticwebassets\\images\\chicken_alfredo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\chocolate_cake.jpg",
+      "PackagePath": "staticwebassets\\images\\chocolate_cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\d136a798-d989-4536-910c-d43835feac2f.jpg",
+      "PackagePath": "staticwebassets\\images\\d136a798-d989-4536-910c-d43835feac2f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\default-profile-picture.jpg",
+      "PackagePath": "staticwebassets\\images\\default-profile-picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\grilled_cheese_sandwich.jpg",
+      "PackagePath": "staticwebassets\\images\\grilled_cheese_sandwich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\mushroom_risotto.jpg",
+      "PackagePath": "staticwebassets\\images\\mushroom_risotto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\pancakes.jpg",
+      "PackagePath": "staticwebassets\\images\\pancakes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\spaghetti-bolognese.jpg",
+      "PackagePath": "staticwebassets\\images\\spaghetti-bolognese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\spaghetti_carbonara.jpg",
+      "PackagePath": "staticwebassets\\images\\spaghetti_carbonara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\th.jpg",
+      "PackagePath": "staticwebassets\\images\\th.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\images\\vegetable_stirfry.jpg",
+      "PackagePath": "staticwebassets\\images\\vegetable_stirfry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GRIGS\\source\\repos\\Recipe_Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Recipe_Site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Recipe_Site.props",
+      "PackagePath": "build\\Recipe_Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Recipe_Site.props",
+      "PackagePath": "buildMultiTargeting\\Recipe_Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Recipe_Site.props",
+      "PackagePath": "buildTransitive\\Recipe_Site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

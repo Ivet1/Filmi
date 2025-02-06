@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\reels\bin\Debug\reels.exe.config
+C:\Users\GRIGS\source\repos\reels\bin\Debug\reels.exe
+C:\Users\GRIGS\source\repos\reels\bin\Debug\reels.pdb
+C:\Users\GRIGS\source\repos\reels\obj\Debug\reels.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\reels\obj\Debug\reels.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\reels\obj\Debug\reels.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\reels\obj\Debug\reels.exe
+C:\Users\GRIGS\source\repos\reels\obj\Debug\reels.pdb

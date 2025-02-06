@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Recipe_Site.Models.Recipe>
+
+@{
+    ViewData["Title"] = "My Recipes";
+}
+
+<h1 class="mb-4">My Recipes</h1>
+
+@if (Model != null && Model.Any())
+{
+    <div class="list-group mt-4">
+        @foreach (var recipe in Model)
+        {
+            <a href="@Url.Action("Details", "Recipe", new { id = recipe.Id })" class="list-group-item list-group-item-action">
+                <h5>@recipe.Title</h5>
+                <p>@(recipe.Ingredients.Length > 100 ? recipe.Ingredients.Substring(0, 100) + "..." : recipe.Ingredients)</p>
+                <small class="text-muted">Posted by: @recipe.CreatedBy</small>
+
+                @if (recipe.CreatedBy == User.Identity.Name)
+                {
+                    <form asp-action="Delete" asp-route-id="@recipe.Id" method="post" class="float-end ml-2">
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                }
+            </a>
+        }
+    </div>
+}
+else
+{
+    <p class="mt-4 text-muted">You don't have any recipes yet. Start by adding a new one!</p>
+}

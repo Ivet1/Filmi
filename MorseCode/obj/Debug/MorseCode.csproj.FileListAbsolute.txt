@@ -1,0 +1,8 @@
+C:\Users\GRIGS\source\repos\MorseCode\bin\Debug\MorseCode.exe.config
+C:\Users\GRIGS\source\repos\MorseCode\bin\Debug\MorseCode.exe
+C:\Users\GRIGS\source\repos\MorseCode\bin\Debug\MorseCode.pdb
+C:\Users\GRIGS\source\repos\MorseCode\obj\Debug\MorseCode.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\MorseCode\obj\Debug\MorseCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\GRIGS\source\repos\MorseCode\obj\Debug\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\MorseCode\obj\Debug\MorseCode.exe
+C:\Users\GRIGS\source\repos\MorseCode\obj\Debug\MorseCode.pdb

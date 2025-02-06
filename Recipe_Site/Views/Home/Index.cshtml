@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1>Welcome to the Recipe App</h1>
+    <p>Please log in or register to get started.</p>
+
+    <div>
+        <a href="@Url.Action("Login", "Account")" class="btn btn-primary">Login</a>
+        <a href="@Url.Action("Register", "Account")" class="btn btn-success">Register</a>
+        <a class="nav-link text-dark" href="@Url.Action("Index", "Recipe")">Go to Recipe Index</a>
+
+
+    </div>
+</div>
